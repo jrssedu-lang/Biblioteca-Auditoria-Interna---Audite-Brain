@@ -145,11 +145,6 @@ Prompts estruturados, com contexto, objetivo e formato de saída bem definidos, 
 
 O processo evidenciou que a Engenharia de Prompts é um fator essencial para transformar ferramentas de IA em instrumentos de apoio à tomada de decisão e à construção de conhecimento especializado.
 
-Essa é a **última seção** do README e deve mostrar o que você consolidou ao estudar o tema. Como seu projeto é o **Audit Brain**, o miniguia pode ser apresentado como um material de consulta rápida para Auditoria Interna.
-
-Você pode adicionar exatamente o conteúdo abaixo:
-
-```markdown
 # Miniguia de Estudo
 
 ## Resumo Estruturado
@@ -284,7 +279,7 @@ Essas tecnologias permitem automatizar análises, aumentar a eficiência dos tra
 
 O desenvolvimento do **Audit Brain** demonstrou que o NotebookLM pode ser utilizado como uma plataforma estratégica para centralizar conhecimento, apoiar estudos e potencializar a atuação da Auditoria Interna.
 
-A combinação entre fontes oficiais, Engenharia de Prompts e organização estruturada das informações permitiu construir uma base de conhecimento reutilizável, capaz de apoiar futuras auditorias, estudos e iniciativas de transformação digital na área.
+A combinação entre fontes oficiais, Engenharia de Prompts e organização estruturada das informações permitiu construir uma base de conhecimento reutilizável, capaz de apoiar futuras auditorias, estudos e iniciativas de transformação digital na área.os e iniciativas de transformação digital na área.
 ```
 
 
