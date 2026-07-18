@@ -144,3 +144,148 @@ A principal conclusão foi que a qualidade das respostas depende diretamente da 
 Prompts estruturados, com contexto, objetivo e formato de saída bem definidos, produziram respostas significativamente mais completas, consistentes e úteis para aplicações em Auditoria Interna.
 
 O processo evidenciou que a Engenharia de Prompts é um fator essencial para transformar ferramentas de IA em instrumentos de apoio à tomada de decisão e à construção de conhecimento especializado.
+
+Essa é a **última seção** do README e deve mostrar o que você consolidou ao estudar o tema. Como seu projeto é o **Audit Brain**, o miniguia pode ser apresentado como um material de consulta rápida para Auditoria Interna.
+
+Você pode adicionar exatamente o conteúdo abaixo:
+
+```markdown
+# Miniguia de Estudo
+
+## Resumo Estruturado
+
+### O que é o Audit Brain?
+
+O Audit Brain é um projeto desenvolvido para transformar o NotebookLM em um **segundo cérebro para Auditoria Interna**, reunindo conhecimento técnico sobre SAP ERP, Auditoria Contínua, Gestão de Riscos, Controles Internos, Data Analytics e Inteligência Artificial.
+
+O objetivo é centralizar informações provenientes de fontes oficiais, permitindo consultas rápidas, apoio à tomada de decisão e desenvolvimento de monitoramentos contínuos.
+
+---
+
+### Auditoria Interna
+
+A Auditoria Interna é uma atividade independente e objetiva que busca agregar valor à organização por meio da avaliação da eficácia dos processos de governança, gestão de riscos e controles internos.
+
+Principais objetivos:
+
+- Avaliar riscos.
+- Validar controles internos.
+- Apoiar a governança corporativa.
+- Identificar oportunidades de melhoria.
+- Promover conformidade com normas e políticas.
+
+---
+
+### SAP ERP
+
+O SAP ERP é um sistema integrado que concentra informações dos principais processos de negócio da organização.
+
+Durante uma auditoria, os principais pontos analisados incluem:
+
+- Processos financeiros.
+- Compras.
+- Estoques.
+- Pagamentos.
+- Cadastros.
+- Segregação de funções.
+- Trilhas de auditoria.
+
+---
+
+### Data Analytics
+
+A análise de dados permite ampliar a cobertura da Auditoria Interna por meio da avaliação de grandes volumes de informações.
+
+Aplicações:
+
+- Identificação de exceções.
+- Detecção de fraudes.
+- Monitoramento contínuo.
+- Construção de indicadores.
+- Dashboards gerenciais.
+
+---
+
+### Tecnologias Aplicadas à Auditoria
+
+As tecnologias estudadas possuem papel fundamental na transformação digital da Auditoria Interna.
+
+Principais recursos:
+
+- Inteligência Artificial
+- IA Generativa
+- Power BI
+- Python
+- SQL
+- Power Automate
+- Process Mining
+- ACL Analytics
+
+Essas tecnologias permitem automatizar análises, aumentar a eficiência dos trabalhos e apoiar auditorias contínuas.
+
+---
+
+# Glossário
+
+| Conceito | Definição |
+|----------|-----------|
+| Auditoria Interna | Atividade independente que avalia riscos, controles e governança. |
+| Auditoria Contínua | Monitoramento automatizado e recorrente dos processos e controles. |
+| SAP ERP | Sistema integrado de gestão empresarial utilizado por organizações para suportar seus processos de negócio. |
+| Data Analytics | Técnicas utilizadas para transformar dados em informações para apoio à decisão. |
+| Controle Interno | Procedimentos destinados a mitigar riscos e assegurar o alcance dos objetivos organizacionais. |
+| Gestão de Riscos | Processo de identificação, avaliação, tratamento e monitoramento dos riscos. |
+| KPI | Indicador de desempenho utilizado para medir resultados. |
+| KRI | Indicador utilizado para monitorar riscos. |
+| IA Generativa | Tecnologia capaz de gerar conteúdos e apoiar análises utilizando modelos de Inteligência Artificial. |
+| NotebookLM | Ferramenta baseada em IA utilizada para organizar, relacionar e consultar documentos fornecidos pelo usuário. |
+
+---
+
+# Prompts Reutilizáveis
+
+## Resumo Executivo
+
+> Explique este conteúdo em linguagem executiva, destacando os principais conceitos, riscos, controles e aplicações práticas para Auditoria Interna.
+
+---
+
+## Aplicação em Auditoria
+
+> Com base neste conteúdo, identifique os riscos, controles internos, evidências, KPIs, KRIs e testes de auditoria que podem ser aplicados.
+
+---
+
+## SAP
+
+> Explique como este processo funciona no SAP, indicando módulos, transações, tabelas, dados utilizados e principais riscos envolvidos.
+
+---
+
+## Data Analytics
+
+> Quais análises de dados, dashboards e monitoramentos contínuos podem ser desenvolvidos utilizando este conteúdo?
+
+---
+
+## Inteligência Artificial
+
+> Como este conhecimento pode ser aplicado por agentes de Inteligência Artificial para apoiar Auditorias Contínuas e tomada de decisão?
+
+---
+
+## Construção de Conhecimento
+
+> Transforme este documento em uma base permanente de conhecimento, organizando conceitos, processos, riscos, controles, indicadores, estudos de caso e boas práticas para Auditoria Interna.
+
+---
+
+# Conclusão
+
+O desenvolvimento do **Audit Brain** demonstrou que o NotebookLM pode ser utilizado como uma plataforma estratégica para centralizar conhecimento, apoiar estudos e potencializar a atuação da Auditoria Interna.
+
+A combinação entre fontes oficiais, Engenharia de Prompts e organização estruturada das informações permitiu construir uma base de conhecimento reutilizável, capaz de apoiar futuras auditorias, estudos e iniciativas de transformação digital na área.
+```
+
+
+
