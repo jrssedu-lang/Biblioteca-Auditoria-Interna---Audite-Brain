@@ -24,3 +24,17 @@ Os principais objetivos deste estudo são:
 * Demonstrar como a Engenharia de Prompts pode potencializar o uso de IA em atividades de auditoria e análise de dados.
 
 Como resultado, o projeto busca transformar informações dispersas em um ambiente inteligente de aprendizado e consulta, contribuindo para análises mais rápidas, fundamentadas e orientadas por evidências.
+
+---
+
+# Curadoria de Fontes
+
+Para o desenvolvimento do **Audit Brain**, foram selecionadas fontes oficiais e amplamente reconhecidas nas áreas de Auditoria Interna, SAP ERP, Data Analytics e Tecnologias aplicadas à Auditoria. Esses materiais foram utilizados como base de conhecimento no NotebookLM para construir uma biblioteca especializada capaz de apoiar estudos, consultas técnicas e o desenvolvimento de auditorias contínuas.
+
+| Fonte | Área | Justificativa | Link |
+|--------|------|---------------|------|
+| SAP Help Portal | SAP ERP | Documentação oficial sobre módulos, processos, tabelas, transações e arquitetura do SAP. | https://help.sap.com |
+| SAP Learning | SAP ERP | Plataforma oficial com cursos, vídeos e materiais técnicos sobre SAP ECC e SAP S/4HANA. | https://learning.sap.com |
+| The Institute of Internal Auditors (IIA) | Auditoria Interna | Normas Globais de Auditoria Interna, guias e boas práticas internacionais. | https://www.theiia.org/en/standards/ |
+| Microsoft Learn – Power BI | Data Analytics | Documentação oficial sobre modelagem de dados, Business Intelligence e análise de dados. | https://learn.microsoft.com/power-bi |
+| Microsoft Learn | IA e Tecnologias | Conteúdo sobre Inteligência Artificial, automação, Power Platform e tecnologias para auditoria baseada em dados. | https://learn.microsoft.com |
