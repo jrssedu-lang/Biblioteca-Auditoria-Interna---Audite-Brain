@@ -1,4 +1,4 @@
-# 🧠 Audit Brain
+# Audit Brain
 
 > **Um Segundo Cérebro para Auditoria Interna utilizando NotebookLM, SAP ERP, Data Analytics e Inteligência Artificial.**
 
@@ -8,7 +8,7 @@ A proposta consiste em centralizar conteúdos técnicos provenientes de normas, 
 
 ---
 
-# 📚 Índice
+# Índice
 
 - Contexto e Objetivos
 - Curadoria de Fontes
@@ -20,7 +20,7 @@ A proposta consiste em centralizar conteúdos técnicos provenientes de normas, 
 
 ---
 
-# 🎯 Contexto e Objetivos
+# Contexto e Objetivos
 
 ## Contexto
 
@@ -52,7 +52,7 @@ Este projeto busca:
 
 ---
 
-# 📖 Curadoria de Fontes
+# Curadoria de Fontes
 
 Foram selecionadas fontes oficiais, abertas e amplamente reconhecidas no mercado para garantir a qualidade e confiabilidade da base de conhecimento utilizada no NotebookLM.
 
@@ -68,21 +68,21 @@ Foram selecionadas fontes oficiais, abertas e amplamente reconhecidas no mercado
 
 As fontes foram escolhidas considerando:
 
-- Autoridade da instituição
-- Atualização constante
-- Conteúdo técnico
-- Aplicação prática em Auditoria Interna
-- Disponibilidade pública
+- Autoridade da instituição.
+- Atualização constante.
+- Conteúdo técnico.
+- Aplicação prática em Auditoria Interna.
+- Disponibilidade pública.
 
 ---
 
-# 🧩 Engenharia de Prompts e "Cicatrizes"
+# Engenharia de Prompts e "Cicatrizes"
 
 A construção do Audit Brain exigiu diversas iterações de prompts para compreender como o NotebookLM interpreta, organiza e relaciona informações.
 
 Ao longo do desenvolvimento, foi possível observar que pequenas alterações na estrutura dos prompts produziam diferenças significativas na qualidade das respostas.
 
-## Prompt 1 — Construção do Segundo Cérebro
+## Prompt 1 – Construção do Segundo Cérebro
 
 ### Objetivo
 
@@ -98,7 +98,7 @@ As respostas passaram a considerar todo o contexto do projeto, produzindo análi
 
 ---
 
-## Prompt 2 — Extração de Conhecimento
+## Prompt 2 – Extração de Conhecimento
 
 ### Objetivo
 
@@ -114,7 +114,7 @@ O NotebookLM deixou de produzir apenas resumos e passou a organizar informaçõe
 
 ---
 
-## Prompt 3 — Aplicação em Auditoria
+## Prompt 3 – Aplicação em Auditoria
 
 ### Objetivo
 
@@ -130,17 +130,17 @@ As respostas passaram a gerar aplicações práticas para Auditoria Interna, apr
 
 ---
 
-# 🔍 Troubleshooting ("Cicatrizes")
+# Troubleshooting ("Cicatrizes")
 
 Durante o desenvolvimento foram observadas algumas limitações.
 
 | Dificuldade | Solução |
 |--------------|----------|
-| Respostas genéricas | Contextualização do prompt |
-| Baixa relação entre documentos | Solicitação explícita para cruzamento de informações |
-| Resumos superficiais | Solicitação de extração de conhecimento estruturado |
-| Pouca aplicação prática | Inclusão de riscos, controles e testes de auditoria |
-| Respostas pouco reutilizáveis | Padronização da estrutura das respostas |
+| Respostas genéricas | Contextualização do prompt. |
+| Baixa relação entre documentos | Solicitação explícita para cruzamento de informações. |
+| Resumos superficiais | Solicitação de extração de conhecimento estruturado. |
+| Pouca aplicação prática | Inclusão de riscos, controles e testes de auditoria. |
+| Respostas pouco reutilizáveis | Padronização da estrutura das respostas. |
 
 ## Principais aprendizados
 
@@ -151,7 +151,7 @@ Durante o desenvolvimento foram observadas algumas limitações.
 
 ---
 
-# 📘 Miniguia de Estudo
+# Miniguia de Estudo
 
 ## Auditoria Interna
 
@@ -171,7 +171,7 @@ Tecnologias capazes de apoiar análises, automatizar tarefas repetitivas e ampli
 
 ---
 
-# 📖 Glossário
+# Glossário
 
 | Conceito | Definição |
 |-----------|-----------|
@@ -186,31 +186,31 @@ Tecnologias capazes de apoiar análises, automatizar tarefas repetitivas e ampli
 
 ---
 
-# 💡 Prompts Reutilizáveis
+# Prompts Reutilizáveis
 
-### Resumo Executivo
+## Resumo Executivo
 
 > Explique este conteúdo em linguagem executiva destacando riscos, controles, processos e aplicações para Auditoria Interna.
 
-### SAP
+## SAP
 
 > Explique este processo indicando módulos, tabelas, transações, riscos e controles envolvidos.
 
-### Auditoria
+## Auditoria
 
 > Quais testes de auditoria podem ser executados com base neste processo?
 
-### Data Analytics
+## Data Analytics
 
 > Quais análises, dashboards e monitoramentos contínuos podem ser desenvolvidos utilizando essas informações?
 
-### Inteligência Artificial
+## Inteligência Artificial
 
 > Como esse conteúdo pode ser utilizado por um agente de IA especializado em Auditoria Interna?
 
 ---
 
-# 🚀 Conclusão
+# Conclusão
 
 O desenvolvimento do **Audit Brain** demonstrou que o NotebookLM pode ser utilizado como uma plataforma para construção de conhecimento especializado, indo além da simples consulta de documentos.
 
