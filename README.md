@@ -19,10 +19,8 @@ Os principais objetivos deste estudo são:
 * Construir uma base de conhecimento especializada em Auditoria Interna.
 * Centralizar conteúdos sobre SAP ERP, gestão de riscos, controles internos e auditoria contínua.
 * Explorar o potencial do NotebookLM como ferramenta de organização e consulta de conhecimento.
-* Desenvolver uma biblioteca de prompts para extrair informações de forma mais eficiente.
-* Apoiar a criação de monitoramentos contínuos e futuras soluções baseadas em Inteligência Artificial para Auditoria Interna.
+* Desenvolver uma biblioteca de prompts para extrair informações com mais eficiência.
+* Apoiar a criação de monitoramentos contínuos e de futuras soluções baseadas em Inteligência Artificial para a Auditoria Interna.
 * Demonstrar como a Engenharia de Prompts pode potencializar o uso de IA em atividades de auditoria e análise de dados.
 
 Como resultado, o projeto busca transformar informações dispersas em um ambiente inteligente de aprendizado e consulta, contribuindo para análises mais rápidas, fundamentadas e orientadas por evidências.
-
-Esse texto atende diretamente ao que o enunciado pede ("Contexto e Objetivos"), mas também posiciona o seu projeto como uma iniciativa de inovação em Auditoria Interna, deixando o README com um aspecto muito mais profissional.
