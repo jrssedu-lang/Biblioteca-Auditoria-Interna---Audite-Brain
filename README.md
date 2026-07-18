@@ -38,3 +38,109 @@ Para o desenvolvimento do **Audit Brain**, foram selecionadas fontes oficiais e 
 | The Institute of Internal Auditors (IIA) | Auditoria Interna | Normas Globais de Auditoria Interna, guias e boas práticas internacionais. | https://www.theiia.org/en/standards/ |
 | Microsoft Learn – Power BI | Data Analytics | Documentação oficial sobre modelagem de dados, Business Intelligence e análise de dados. | https://learn.microsoft.com/power-bi |
 | Microsoft Learn | IA e Tecnologias | Conteúdo sobre Inteligência Artificial, automação, Power Platform e tecnologias para auditoria baseada em dados. | https://learn.microsoft.com |
+
+# Engenharia de Prompts e "Cicatrizes"
+
+Durante o desenvolvimento do **Audit Brain**, foram realizados diversos testes de Engenharia de Prompts com o objetivo de identificar as estratégias mais eficientes para transformar o NotebookLM em uma base de conhecimento especializada em Auditoria Interna.
+
+O processo foi iterativo: os prompts evoluíram de perguntas genéricas para instruções altamente estruturadas, permitindo obter respostas mais completas, contextualizadas e reutilizáveis.
+
+---
+
+## Prompt 1 – Construção do Segundo Cérebro
+
+**Objetivo**
+
+Definir o papel do NotebookLM como uma base permanente de conhecimento para Auditoria Interna.
+
+**Prompt**
+
+> "Você será a base de conhecimento de um sistema chamado Audit Brain, um segundo cérebro especializado em Auditoria Interna, SAP ERP, Data Analytics, Gestão de Riscos, Controles Internos e Inteligência Artificial."
+
+**Resultado Obtido**
+
+O NotebookLM passou a contextualizar melhor as respostas e a relacionar diferentes documentos da base, reduzindo respostas isoladas e aumentando a consistência das análises.
+
+---
+
+## Prompt 2 – Extração de Conhecimento de Vídeos
+
+**Objetivo**
+
+Transformar vídeos em conhecimento estruturado para Auditoria Interna.
+
+**Prompt**
+
+> "Analise este vídeo como se estivesse treinando um Segundo Cérebro para Auditoria Interna. Extraia conceitos, riscos, controles, processos, indicadores, boas práticas, casos reais, oportunidades de automação e monitoramento contínuo."
+
+**Resultado Obtido**
+
+As respostas deixaram de ser simples resumos e passaram a organizar o conhecimento em tópicos reutilizáveis para futuras auditorias.
+
+---
+
+## Prompt 3 – Geração de Material de Estudo
+
+**Objetivo**
+
+Converter documentos técnicos em material de apoio para consultas futuras.
+
+**Prompt**
+
+> "Transforme este documento em um guia de estudo contendo resumo estruturado, glossário, perguntas frequentes, riscos, controles, processos SAP e testes de auditoria."
+
+**Resultado Obtido**
+
+Foi possível criar uma documentação mais organizada, facilitando revisões e consultas rápidas.
+
+---
+
+## Prompt 4 – Aplicação Prática em Auditoria
+
+**Objetivo**
+
+Converter conceitos teóricos em aplicações práticas.
+
+**Prompt**
+
+> "Com base neste conteúdo, identifique riscos, controles internos, evidências, KPIs, KRIs, testes de auditoria e oportunidades de monitoramento contínuo."
+
+**Resultado Obtido**
+
+O NotebookLM passou a responder com foco na aplicação prática em Auditoria Interna, aproximando o conteúdo de situações reais.
+
+---
+
+# Referências Utilizadas
+
+As respostas foram fundamentadas principalmente em:
+
+- SAP Help Portal
+- SAP Learning
+- The Institute of Internal Auditors (IIA)
+- Microsoft Learn
+- Materiais técnicos disponibilizados no NotebookLM
+
+---
+
+# Troubleshooting ("Cicatrizes")
+
+Durante os testes, algumas dificuldades foram identificadas:
+
+| Dificuldade | Solução Aplicada |
+|--------------|------------------|
+| Respostas muito genéricas | Criar prompts com objetivo, contexto e formato esperado. |
+| Pouca relação entre documentos | Solicitar explicitamente que o NotebookLM conectasse informações entre diferentes fontes. |
+| Resumos superficiais | Pedir extração de conhecimento em vez de resumo simples. |
+| Pouca aplicação prática | Direcionar os prompts para riscos, controles, evidências e testes de auditoria. |
+| Baixa reutilização das respostas | Padronizar a estrutura das respostas para facilitar consultas futuras. |
+
+---
+
+# Lições Aprendidas
+
+A principal conclusão foi que a qualidade das respostas depende diretamente da qualidade dos prompts.
+
+Prompts estruturados, com contexto, objetivo e formato de saída bem definidos, produziram respostas significativamente mais completas, consistentes e úteis para aplicações em Auditoria Interna.
+
+O processo evidenciou que a Engenharia de Prompts é um fator essencial para transformar ferramentas de IA em instrumentos de apoio à tomada de decisão e à construção de conhecimento especializado.
